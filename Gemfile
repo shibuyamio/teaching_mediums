@@ -86,3 +86,5 @@ group :test do
   gem 'factory_bot_rails'
   gem 'simplecov', require: false
 end
+
+gem "tailwindcss-rails", "~> 2.0"
